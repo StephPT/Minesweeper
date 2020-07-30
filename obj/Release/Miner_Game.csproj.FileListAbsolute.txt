@@ -1,0 +1,11 @@
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\bin\Release\Miner_Game.exe.config
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\bin\Release\Miner_Game.exe
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\bin\Release\Miner_Game.pdb
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.csprojAssemblyReference.cache
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.Form1.resources
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.help.resources
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.Properties.Resources.resources
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.csproj.GenerateResource.cache
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.csproj.CoreCompileInputs.cache
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.exe
+C:\Users\stomkins\Documents\University\Visual Studio\Miner_Game\Miner_Game\obj\Release\Miner_Game.pdb
